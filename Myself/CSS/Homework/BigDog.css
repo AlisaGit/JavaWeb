@@ -1,0 +1,26 @@
+.dogPhoto{
+    width: 1350px;
+    height: 900px;
+    margin: -20px auto;
+    background: url("../../Drawable/Myself/dogPhoto_2.png");
+    background-size: 100%;
+}
+body{
+    margin: auto;
+}
+.characterDiv{
+    background-color: #080a02;
+    width: 1350px;
+    height: 880px;
+    margin: 0 auto;
+    opacity: 0.4;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+p{
+    font-size: 50px;
+    color: #f4d9ff;
+    padding-top: 200px;
+    padding-left: 20%;
+}

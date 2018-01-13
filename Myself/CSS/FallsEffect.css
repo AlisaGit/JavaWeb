@@ -1,0 +1,17 @@
+/*.img{*/
+    /*float: left;*/
+    /*magin-top: 0px;*/
+/*}*/
+/*.myImg{*/
+    /*position: relative;*/
+    /*left:10px;*/
+    /*top: 0px;*/
+/*}*/
+.myImg{
+    column-count: 6;
+    -webkit-column-count: 6;
+
+}
+.img{
+    margin:10px;
+}

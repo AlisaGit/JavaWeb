@@ -1,0 +1,39 @@
+.middle{
+    width: 650px;
+    height: 300px;
+    margin-top: 70px;
+    border-radius: 50px;
+    background: linear-gradient(left,black, #fa4f45);
+    background: -webkit-linear-gradient(left,black,#fa4f45);
+    opacity: 0.5;
+}
+img{
+    width:150px;
+    height: 250px;
+}
+a{
+    color: wheat;
+    text-decoration: none;
+}
+.middlePhoto1{
+    position: relative;
+    width: 150px;
+    height: 250px;
+}
+.middlePhoto2{
+    position: relative;
+    top:-250px;
+    width: 150px;
+    height: 250px;
+    margin-left: 210px;
+    /*margin-top: -315px;*/
+}
+.middlePhoto3{
+    position: relative;
+    top:-500px;
+    width: 150px;
+    height: 250px;
+    margin-left: 410px;
+}
+
+

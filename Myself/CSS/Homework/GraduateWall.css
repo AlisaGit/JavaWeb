@@ -1,0 +1,61 @@
+body{
+    margin: auto;
+    background-color: #080a02;
+}
+iframe{
+    width: 900px;
+    height: 450px;
+    margin: 0 15%;
+}
+.timeSignal{
+    color: white;
+    position: absolute;
+    top:300px;
+    left: 16%;
+    transform: skew(30deg) rotate(-20deg) ;
+    transform-origin: 0 0;
+    font-size: 23px;
+}
+.proverb{
+    color: white;
+    position: absolute;
+    top:120px;
+    left: 28%;
+    font-size: 20px;
+    height: 250px;
+    width: 100px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+}
+.left{
+    width: 200px;
+    height: 180px;
+    margin-left: 18%;
+    margin-top: -30px;
+    background-color: #abffe9;
+    float: left;
+    border-radius: 30px;
+}
+.middle{
+    width: 200px;
+    height: 180px;
+    margin-left: 6%;
+    margin-top: -30px;
+    background-color: #abffe9;
+    float: left;
+    border-radius: 30px;
+}
+.right{
+    width: 200px;
+    height: 180px;
+    margin-left: 6%;
+    margin-top: -30px;
+    background-color: #abffe9;
+    float: left;
+    border-radius: 30px;
+}
+img{
+    width: 200px;
+    height: 180px;
+    border-radius: 30px;
+}

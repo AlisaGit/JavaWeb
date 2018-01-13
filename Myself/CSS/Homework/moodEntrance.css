@@ -1,0 +1,18 @@
+p{
+    margin-left: 20px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+.content{
+    margin: 100px 400px;
+    width: 600px;
+    height: 300px;
+    background-color: #ffe0bd;
+    opacity: 0.8;
+    border-radius: 60px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+#button{
+    margin-left: 200px;
+}

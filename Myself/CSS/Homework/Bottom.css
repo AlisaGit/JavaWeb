@@ -1,0 +1,11 @@
+.bottomPhoto{
+    margin: 20px 50px;
+    opacity: 0.6;
+    width: 150px;
+    border-radius: 50px;
+    float: right;
+}
+.bottom{
+     width:100%;
+    float: right;
+ }

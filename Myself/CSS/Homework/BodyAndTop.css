@@ -1,0 +1,63 @@
+.body{
+    width: 100%;
+    height: 900px;
+    background-image: url("../../Drawable/MyselfPhotos/contentPhoto1.jpg");
+    opacity: 1;
+    background-size: 105%;
+
+
+}
+body{
+    filter: url(#blur); /* FireFox, Chrome, Opera */
+    margin: auto;
+    /*为什么*/
+}
+span{
+    margin-left: 20px;
+}
+.catalog{
+    width: 600px;
+    height: 250px;
+    border-radius: 50px;
+    opacity: 0.8;
+    margin: auto;
+    background: linear-gradient(right,#fa4f45, #080a02);
+    background: -webkit-linear-gradient(right,#fa4f45,#080a02);
+    background: -moz-linear-gradient(right,#fa4f45,#080a02);
+    background: -ms-linear-gradient(right,#fa4f45,#080a02);
+}
+.description{
+    margin-left: 20px;
+}
+@font-face {
+    font-family: font;
+    src: url("../../Font/font.ttf");
+}
+.capital{
+    font-family: font;
+    font-size: 300%;
+    color: cornsilk;
+}
+p{
+    color: cornsilk;
+    font-size: 120%;
+    position: relative;
+    top: -15px;
+    padding-left: 10px;
+}
+.right{
+    margin: auto;
+}
+
+.headPhoto{
+    width: 14%;
+    height: 200px;
+    margin-left: 55%;
+    margin-top: -230px;
+    display: block;
+}
+a img{
+    border-radius: 30px;
+    position: relative;
+    top: 10px;
+}
